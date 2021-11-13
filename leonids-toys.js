@@ -6,7 +6,7 @@ let phones = [
         maker: "Apple",
         operatingSystem: "iOS",
         price: 900,
-        weight: 1.2
+        weight: 1.7
     },
 
     {
@@ -15,7 +15,7 @@ let phones = [
         maker: "Samsung",
         operatingSystem: "Android",
         price: 600,
-        weight: 1.4
+        weight: 1.6
     },
     {
         id: 3,
@@ -23,6 +23,6 @@ let phones = [
         maker: "Japan",
         operatingSystem: "Roku",
         price: 500,
-        weight: 1.6
+        weight: 1.5
     }
 ]
